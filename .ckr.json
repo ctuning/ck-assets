@@ -1,0 +1,15 @@
+{
+  "data_uoa": "ck-assets",
+  "data_uid": "4784a9da122ed85c",
+  "data_alias": "ck-assets",
+  "data_name": "ck-assets",
+  "dict": {
+    "shared": "git",
+    "url": "https://github.com/ctuning/ck-assets",
+    "repo_deps": [
+      {
+        "repo_uoa": "ck-dissemination-modules"
+      }
+    ]
+  }
+}
