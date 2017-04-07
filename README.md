@@ -13,8 +13,9 @@ Usage
 
 Copyright
 =========
-2015-2017 cTuning foundation, dividiti and individual contributors
+2015-2017 [cTuning foundation](http://cTuning.org) and [dividiti](http://dividiti.com)
 
 License
 =======
-CC-BY-SA
+CC-BY-SA, unless stated otherwise.
+
