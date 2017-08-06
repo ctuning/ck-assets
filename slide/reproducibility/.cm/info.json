@@ -6,10 +6,10 @@
     "author": "Grigori Fursin",
     "author_email": "Grigori.Fursin@cTuning.org",
     "author_webpage": "http://fursin.net",
-    "copyright": "See CK COPYRIGHT.txt for copyright details",
     "engine": "CK",
     "iso_datetime": "2017-04-09T10:15:29.485908",
-    "license": "See CK LICENSE.txt for licensing details",
+    "copyright": "Grigori Fursin",
+    "license": " Creative Commons License (CC-BY)",
     "version": [
       "1",
       "8",
