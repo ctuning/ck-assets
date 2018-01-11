@@ -1,1 +1,1 @@
-ck convert # --scale=1000
+ck convert # --scale=800
