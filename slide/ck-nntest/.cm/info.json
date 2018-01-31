@@ -1,0 +1,21 @@
+{
+  "backup_data_uid": "3334bf6b1e3a2a9f",
+  "backup_module_uid": "757c34ce8a0a808d",
+  "backup_module_uoa": "slide",
+  "control": {
+    "author": "Grigori Fursin",
+    "author_email": "Grigori.Fursin@cTuning.org",
+    "author_webpage": "http://fursin.net",
+    "copyright": "Grigori Fursin",
+    "engine": "CK",
+    "iso_datetime": "2018-01-31T14:31:35.227571",
+    "license": " Creative Commons License (CC-BY)",
+    "version": [
+      "1",
+      "9",
+      "4",
+      "1"
+    ]
+  },
+  "data_name": "ck-nntest"
+}
