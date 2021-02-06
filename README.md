@@ -16,10 +16,6 @@ Usage
 * Install [Collective Knowledge Framework](https://github.com/ctuning/ck)
 * Pull this repository: "ck pull repo:ck-assets"
 
-Copyright
-=========
-2015-2017 [cTuning foundation](http://cTuning.org) and [dividiti](http://dividiti.com)
-
 License
 =======
 CC-BY-SA, unless stated otherwise.

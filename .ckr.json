@@ -1,15 +1,16 @@
 {
-  "data_uoa": "ck-assets",
-  "data_uid": "4784a9da122ed85c",
   "data_alias": "ck-assets",
   "data_name": "ck-assets",
+  "data_uid": "4784a9da122ed85c",
+  "data_uoa": "ck-assets",
   "dict": {
-    "shared": "git",
-    "url": "https://github.com/ctuning/ck-assets",
+    "desc": "Public and reusable CK <a href=\"https://github.com/ctuning/ck-assets/tree/master/repo/ck-assetsslide\">slides</a>, presentations, <a href=\"https://github.com/ctuning/ck-assets/tree/master/repo/ck-assetsreport/common-bib\">Latex BIB file</a>, and other assets (see real use cases in <a href=\"http://cKnowledge.org/rpi-crowd-tuning\">this CK-generated interactive and reproducible article</a>).",
     "repo_deps": [
       {
         "repo_uoa": "ck-dissemination-modules"
       }
-    ]
+    ],
+    "shared": "git",
+    "url": "https://github.com/ctuning/ck-assets"
   }
 }
